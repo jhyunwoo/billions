@@ -4,9 +4,8 @@ import { ReactNode } from 'react'
 import Link from 'next/link'
 
 export const metadata: Metadata = {
-  title: 'Boilerplate',
-  description:
-    'Boilerplate with Next.js, TypeScript, Drizzle ORM, TailwindCSS, Auth.js and Yarn PnP',
+  title: 'Billions',
+  description: 'Billions People',
 }
 
 export default function RootLayout({ children }: Readonly<{ children: ReactNode }>) {
